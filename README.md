@@ -13,4 +13,4 @@ The functionality is broken into three main parts:
 
 The screenshot shows the design and layout of the application. We used Twitter Bootstrap for 99% of the CSS, feel free to do the same or similar as we are not interviewing for HTML/CSS skills; our code review will focus on the programming aspects.
 
-Once you are done please make a pull request with any instructions needed to run the application.
+Once you are done please make a pull request with any instructions needed to run the application and we will be in touch to schedule a review with one of our engineers.
